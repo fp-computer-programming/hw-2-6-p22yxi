@@ -3,4 +3,4 @@
 fahrenheit = float(input("Enter Fahrenheit temperature:"))
  
 celsius = (fahrenheit - 32 ) * 5 / 9
-print(fahrenheit)
+print(celsius)
